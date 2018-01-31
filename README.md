@@ -20,5 +20,3 @@ FPGA chips are programmable, thus you can set the hardware to the specifications
 hardware specifically designed for software needs and these are also very efficient. A good example of implemented ASIC chips is Google, who uses their own proprietary TPUs chips which are a form of ASIC for their own in-house deep 
 learning operations. Also, Amazon and Microsoft are investing in their own chips FPGA chips. We occupy a shift in the computing landscape deliberation is necessary to make chips that can serve the wide usage that is being asked of them.
 
-Moreover, Data centers may need to be more efficient in their operations, as it stands they use far too much energy. It would be vital to see data centers incentivized to use alternative energy.
-
